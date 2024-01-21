@@ -4,9 +4,9 @@
 Project Fokus is a pomodoro developed with DOOM javascript, in addition to HTML and CSS for front-end design
 
 <div>
-<a href="https://github.com/edelvecchio-de)">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/edelvecchio-dev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/edelvecchio-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?edelvecchio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
